@@ -1,0 +1,30 @@
+.inline{
+    display: flex;
+    flex-wrap:nowrap;
+}
+.optionGroup{
+    position: absolute;
+    right: 10px;
+}
+.movieDetail{
+    margin-top: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    height: auto;
+}
+.detailcard{
+    width: 5%;
+}
+.goback{
+    position: absolute;
+    right: 100px;
+}
+.moreinfo{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-image: url('../images/video-production-4223885_1920.jpg');
+    background-size: cover;
+    background-attachment:fixed;
+}
